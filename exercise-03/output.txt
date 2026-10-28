@@ -1,2 +1,7 @@
+--- With a name ---
 Enter your name:
-Hello, Vedika! Welcome to Git practice.
+Hello, Vedika! Welcome to Git practice.
+
+--- With empty input ---
+Enter your name:
+Hello, stranger! You did not enter a name.
