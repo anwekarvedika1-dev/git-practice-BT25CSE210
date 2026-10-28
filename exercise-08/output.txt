@@ -1,0 +1,39 @@
+*   a86fbb8 Exercise 8: merge feature/help
+|\  
+| * e18021b Exercise 8: add help instructions for menu.sh
+|/  
+*   258f601 Merge pull request #8 from anwekarvedika1-dev/feature/renumber-exercises
+|\  
+| * ef52054 Exercise 6: add gitignore rules and ignore evidence
+| * dcd70ec Exercise 5: add diff outputs
+| * ec502c4 Exercise 5: commit staged and final edits
+| * f4ad75d Exercise 5: add notes file
+| * 0128e2e Exercise 4: commit file2 and add status output
+| * c0081a6 Exercise 4: commit file1 only
+| * 24d6d3e Add input validation to greeting script
+| * 9e8d5c2 Exercise 2: record repository creation evidence
+| * 4a9c9c5 Exercise 1: configure Git and record version and identity
+| * 31b06f7 Rename exercise folders to match lab exercise numbers
+|/  
+* 9d01ce7 Format README header as a list
+* 0520924 Cpmplete README with exercises, run steps and links
+* 95318f8 Add git commands record and conflict explanation
+*   b6f0df7 Merge pull request #6 from anwekarvedika1-dev/feature/exercise-03-conflict
+|\  
+| * 845e533 fix capitalisation in resolved mode file
+| *   7f428a6 Resolve mode conflict with hybrid option
+| |\  
+| | * 176e9d8 Select online mode
+| * | 5bc62fe Select classroom mode
+| |/  
+| * e82a789 Add initial lab mode
+|/  
+*   50391fb Merge pull request #4 from anwekarvedika1-dev/feature/exercise-02-menu
+|\  
+| * 2951a5c Add menu script with sample input and output
+|/  
+*   e482aec Merge pull request #2 from anwekarvedika1-dev/feature/exercise-01-greeting
+|\  
+| * 415729d Add greeting script with sample input and output
+|/  
+* 3038c05 Add initial README
