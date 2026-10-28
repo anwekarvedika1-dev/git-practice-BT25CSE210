@@ -1,0 +1,11 @@
+== git stash list ==
+stash@{0}: On feature/exercises-08-12: notes draft
+
+== status after stash (empty = clean) ==
+
+== status after stash pop ==
+ M exercise-12/notes.txt
+
+== notes.txt ==
+Stash practice file
+Unfinished note
