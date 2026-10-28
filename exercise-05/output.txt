@@ -1,0 +1,28 @@
+== git diff ==
+diff --git a/exercise-05/notes.txt b/exercise-05/notes.txt
+index 70f1415..e428a5f 100644
+--- a/exercise-05/notes.txt
++++ b/exercise-05/notes.txt
+@@ -1,2 +1,3 @@
+ Line 1
+ Edit that will be staged
++Edit that is not staged
+
+== git diff --staged ==
+diff --git a/exercise-05/notes.txt b/exercise-05/notes.txt
+index 3be9c81..70f1415 100644
+--- a/exercise-05/notes.txt
++++ b/exercise-05/notes.txt
+@@ -1 +1,2 @@
+ Line 1
++Edit that will be staged
+
+== git diff HEAD ==
+diff --git a/exercise-05/notes.txt b/exercise-05/notes.txt
+index 3be9c81..e428a5f 100644
+--- a/exercise-05/notes.txt
++++ b/exercise-05/notes.txt
+@@ -1 +1,3 @@
+ Line 1
++Edit that will be staged
++Edit that is not staged

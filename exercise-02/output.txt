@@ -1,16 +1,6 @@
-1. Greet  2. Add two numbers  3. Even or odd  4. Exit
-Choose an option:
-Enter your name:
-Hello, Vedika!
-1. Greet  2. Add two numbers  3. Even or odd  4. Exit
-Choose an option:
-First number:
-Second number:
-Sum = 12
-1. Greet  2. Add two numbers  3. Even or odd  4. Exit
-Choose an option:
-Enter a number:
-4 is even
-1. Greet  2. Add two numbers  3. Even or odd  4. Exit
-Choose an option:
-Goodbye!
+First commit of this repository:
+3038c05 Add initial README
+
+Current status:
+On branch feature/renumber-exercises
+Your branch is ahead of 'origin/feature/renumber-exercises' by 1 commit.

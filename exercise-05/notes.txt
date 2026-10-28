@@ -1,0 +1,3 @@
+Line 1
+Edit that will be staged
+Edit that is not staged
