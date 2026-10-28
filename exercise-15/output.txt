@@ -1,0 +1,30 @@
+== git fetch origin ==
+From https://github.com/anwekarvedika1-dev/git-practice-BT25CSE210
+   5792fee..2924b0a  main                    -> origin/main
+ * [new branch]      feature/exercises-13-19 -> origin/feature/exercises-13-19
+
+== git log --oneline main..origin/main ==
+2924b0a Exercise 15: add file from clone A
+835ce31 Merge pull request #12 from anwekarvedika1-dev/feature/exercises-13-19
+344e005 Exercise 19: record push rejection and conflict resolution
+fb19084 Exercise 13: record clone and remote URL evidence
+From https://github.com/anwekarvedika1-dev/git-practice-BT25CSE210
+ * branch            main       -> FETCH_HEAD
+Updating 5792fee..2924b0a
+Fast-forward
+ exercise-13/output.txt       | 13 +++++++++++++
+ exercise-15/from-clone-a.txt |  1 +
+ exercise-19/output.txt       | 30 ++++++++++++++++++++++++++++++
+ 3 files changed, 44 insertions(+)
+ create mode 100644 exercise-13/output.txt
+ create mode 100644 exercise-15/from-clone-a.txt
+ create mode 100644 exercise-19/output.txt
+
+== content of from-clone-a.txt ==
+New file created in clone A
+From https://github.com/anwekarvedika1-dev/git-practice-BT25CSE210
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+
+== content of from-clone-a.txt ==
+New file created in clone A
