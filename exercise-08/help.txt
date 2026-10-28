@@ -1,0 +1,4 @@
+How to use menu.sh (see exercise-07):
+1. Run: bash menu.sh
+2. Type 1 to be greeted, 2 to add two numbers, 3 to check even or odd.
+3. Type 4 to exit.
