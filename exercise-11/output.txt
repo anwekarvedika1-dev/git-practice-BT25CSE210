@@ -1,0 +1,7 @@
+Original commit: ed3581d
+Revert commit: 7a7e686
+
+7a7e686 Revert "Exercise 11: add temporary file"
+ed3581d Exercise 11: add temporary file
+
+temporary.txt is removed from the working tree
