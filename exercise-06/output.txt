@@ -1,0 +1,8 @@
+== git check-ignore -v ==
+exercise-06/.gitignore:1:*.log	exercise-06/test.log
+exercise-06/.gitignore:2:*.tmp	exercise-06/temp.tmp
+exercise-06/.gitignore:4:.env	exercise-06/.env
+exercise-06/.gitignore:3:build/	exercise-06/build/out.txt
+
+== git status --short ==
+?? exercise-06/
