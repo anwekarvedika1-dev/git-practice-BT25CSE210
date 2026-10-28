@@ -1,0 +1,6 @@
+First commit of this repository:
+3038c05 Add initial README
+
+Current status:
+On branch feature/renumber-exercises
+Your branch is ahead of 'origin/feature/renumber-exercises' by 1 commit.
