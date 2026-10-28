@@ -1,8 +1,8 @@
 # git-practice-BT25CSE210
 
-**Name:** Vedika Amit Anwekar
-**Roll Number:** BT25CSE210
-**Section:** C
+- **Name:** Vedika Amit Anwekar
+- **Roll Number:** BT25CSE210
+- **Section:** C
 
 ## Description
 This repository contains the exercises I completed for the IT Workshop I Git and GitHub assignment. It shows creating a repository, branching, merging, resolving a merge conflict, and using issues and pull requests.
@@ -34,9 +34,9 @@ Each exercise folder has its sample input in input.txt and its sample output in 
 cat > README.md << "EOF"
 # git-practice-BT25CSE210
 
-**Name:** Vedika Amit Anwekar
-**Roll Number:** BT25CSE210
-**Section:** C
+- **Name:** Vedika Amit Anwekar
+- **Roll Number:** BT25CSE210
+- **Section:** C
 
 ## Description
 This repository contains the exercises I completed for the IT Workshop I Git and GitHub assignment. It shows creating a repository, branching, merging, resolving a merge conflict, and using issues and pull requests.
