@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Lab mode: classroom
+=======
+Lab mode: online
+>>>>>>> feature/mode-online
