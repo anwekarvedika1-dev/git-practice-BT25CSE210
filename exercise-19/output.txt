@@ -1,0 +1,30 @@
+Disposable repository: https://github.com/anwekarvedika1-dev/git-challenge-practice
+Note: this repo was created empty, so both clones started from different first commits. The merge needed --allow-unrelated-histories.
+
+== Rejected push from cloneY ==
+To https://github.com/anwekarvedika1-dev/git-challenge-practice.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/anwekarvedika1-dev/git-challenge-practice.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+== Conflict markers in shared.txt ==
+change from X
+<<<<<<< HEAD
+change from Y
+=======
+>>>>>>> origin/main
+
+== Graph after resolving ==
+*   a3b37b9 Merge remote changes from X
+|\  
+| * 21bb0dc Add shared file from X
+* d86fb34 Merge remote changes from X
+* 664a6bc Add shared file from Y
+
+== Final shared.txt ==
+change from X
+change from Y
