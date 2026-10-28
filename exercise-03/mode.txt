@@ -1,1 +1,1 @@
-Lab mode: classroom
+lab mode: hybrid
