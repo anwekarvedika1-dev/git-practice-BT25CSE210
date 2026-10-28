@@ -1,0 +1,15 @@
+== status after unstaging ==
+ M exercise-10/practice.txt
+
+== git diff (edit is kept) ==
+diff --git a/exercise-10/practice.txt b/exercise-10/practice.txt
+index 4d42573..c049a6b 100644
+--- a/exercise-10/practice.txt
++++ b/exercise-10/practice.txt
+@@ -1 +1,2 @@
+ Original line
++Practice edit
+
+== status after discarding ==
+On branch feature/exercises-08-12
+nothing to commit, working tree clean
