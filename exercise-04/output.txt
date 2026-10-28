@@ -1,0 +1,6 @@
+Status with file1 staged:
+A  exercise-04/file1.txt
+?? exercise-04/file2.txt
+
+Status after commit (file2 still untracked):
+?? exercise-04/file2.txt
