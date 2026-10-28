@@ -1,2 +1,0 @@
-Enter your name:
-Hello, Vedika! Welcome to Git practice.
