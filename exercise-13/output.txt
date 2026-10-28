@@ -1,0 +1,13 @@
+== Clone remote URL ==
+origin	https://github.com/anwekarvedika1-dev/git-practice-BT25CSE210.git (fetch)
+origin	https://github.com/anwekarvedika1-dev/git-practice-BT25CSE210.git (push)
+
+== Clone history ==
+5792fee Merge pull request #10 from anwekarvedika1-dev/feature/exercises-08-12
+fd3a642 Exercise 12: add stash evidence
+1451f4b Exercise 12: commit the restored note
+fea15e8 Exercise 12: add notes file
+f0b906c Exercise 11: add revert evidence
+7a7e686 Revert "Exercise 11: add temporary file"
+ed3581d Exercise 11: add temporary file
+5192474 Exercise 10: add unstage and discard evidence
