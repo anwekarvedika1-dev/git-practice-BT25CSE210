@@ -1,0 +1,5 @@
+Enter first number:
+Enter second number:
+Sum = 10
+Difference = 6
+Product = 16
