@@ -1,0 +1,15 @@
+== git show v1.0 ==
+tag v1.0
+Tagger: Vedika Amit Anwekar <anwekarvedika1@gmail.com>
+Date:   Fri Oct 30 04:41:25 2026 +0530
+
+Lab release
+
+commit 6706406c70af85198f3fd6fe24cf07c6c57e1d29
+Author: Vedika Amit Anwekar <anwekarvedika1@gmail.com>
+Date:   Fri Oct 30 04:39:07 2026 +0530
+
+    Complete README with all exercises, run steps and links
+
+== tags ==
+v1.0
