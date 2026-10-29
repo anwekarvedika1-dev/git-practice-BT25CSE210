@@ -27,3 +27,26 @@ around the two versions. I saved this view in conflict-markers.txt.
 
 To resolve it, I removed the markers and wrote one agreed line, "Lab mode: hybrid".
 Then I ran git add and git commit to finish the merge, and opened pull request #6.
+## More commands used
+
+| Command | Purpose |
+|---|---|
+| git config user.name "NAME" | Set the commit author name for one repository |
+| git diff / git diff --staged / git diff HEAD | Compare unstaged, staged and all changes |
+| git check-ignore -v FILE | Show which .gitignore rule ignores a file |
+| git restore --staged FILE | Unstage a file but keep the edit |
+| git restore FILE | Discard an unstaged edit |
+| git revert --no-edit HEAD | Undo the last commit with a new commit |
+| git stash push / git stash pop | Save unfinished work aside and bring it back |
+| git clone URL | Copy a remote repository to the computer |
+| git fetch origin | Download remote changes without merging |
+| git pull --ff-only origin main | Update main only by fast-forward |
+| git merge --no-ff NAME | Merge with a visible merge commit |
+| git reset --hard origin/main | Make local main match GitHub (used once to undo a local amend) |
+| git tag -a v1.0 -m "msg" | Create an annotated release tag |
+| git push origin v1.0 | Publish a tag to GitHub |
+
+## Push rejection (Exercise 19)
+
+In a disposable repository, two clones each made their own commit. The push from the second clone was rejected because the remote had commits that clone did not have. I fetched, merged with --allow-unrelated-histories (both clones started from different first commits), resolved the add/add conflict in shared.txt by keeping both lines, and pushed without force.
+EOf
