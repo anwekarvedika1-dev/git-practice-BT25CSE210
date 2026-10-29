@@ -1,0 +1,9 @@
+*   8dc0268 Resolve color conflict in vs code
+|\  
+| * bb77a1f Set color to green
+* | e4abe0d Set color to red
+|/  
+* 6433f55 Add color file
+* 5923109 Add help file
+* 39a95e0 Update notes with second line
+* d896f69 Add project introduction
